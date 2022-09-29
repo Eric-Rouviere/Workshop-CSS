@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+.wrapper{
+    width: 680px;        
+}
+
+.full-bleed {
+    width: 680px;
+    height: 340px;
+    background-color: rgb(210, 184, 234);
+    border: 2px solid black;
+}
+h1 {
+    background-color: aqua;
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+p {
+    background-color: aqua;
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
